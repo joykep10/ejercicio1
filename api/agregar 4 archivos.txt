@@ -1,0 +1,15 @@
+dbconfig.php
+dbconnect.php
+EscribirBaseDesdeSispositivo
+LeerBaseDesdeDispositivo
+
+
+EscrbirABasesDesdeDispositivo.php ----- codigo
+
+<?php
+
+header("Access-Control-Allow-Origin: *");
+header("Content-Type: application/json; charset-UFT-8");
+
+
+
